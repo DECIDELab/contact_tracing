@@ -9,3 +9,7 @@ editor_options:
 ---
 
 Welcome to my research website.
+
+## Related works
+
+* [Strategies to lockdown for COVID-19](https://oucomo.github.io/lockdown_strategies/index.html)
