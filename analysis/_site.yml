@@ -1,7 +1,7 @@
-name: contact_tracing
+name: "Contact tracing"
 output_dir: ../docs
 navbar:
-  title: contact_tracing
+  title: "Contact tracing"
   left:
   - text: Home
     href: index.html
