@@ -14,6 +14,8 @@ Referecens related to contact tracing:
 
 * [https://www.coursera.org/learn/covid-19-contact-tracing?edocomorp=covid-19-contact-tracing](https://www.coursera.org/learn/covid-19-contact-tracing?edocomorp=covid-19-contact-tracing)
 
+* [Lessons from Ebola: Preventing the Next Pandemic](https://online-learning.harvard.edu/course/lessons-ebola-preventing-next-pandemic)
+
 ## Twitter
 
 * [2020-06-11] [https://twitter.com/i/web/status/1271081565821505537](https://twitter.com/i/web/status/1271081565821505537)
@@ -92,9 +94,39 @@ Referecens related to contact tracing:
 
 * [2020-02-27] [https://twitter.com/i/web/status/1232976897732116482](https://twitter.com/i/web/status/1232976897732116482)
 
+## Papers
 
+* [2020-06-12] [COVID-19 Resurgence Threatens South Korea’s Success Story](https://thediplomat.com/2020/06/covid-19-resurgence-threatens-south-koreas-success-story/)
 
-## Papers/Research projects
+* [2020-06-12] [Natural History of Asymptomatic SARS-CoV-2 Infection](https://www.nejm.org/doi/full/10.1056/NEJMc2013020?query=featured_coronavirus)
+
+* [2020-06-12] [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://science.sciencemag.org/content/early/2020/06/11/science.abc0035.abstract)
+
+* [2020-06-12] [Universal, Repeated Testing for SARS-CoV-2 and Isolation of Infected Patients Curbed Spread in a Long-Term Care Nursing Facility](https://jamanetwork.com/channels/health-forum/fullarticle/2767348?utm_source=twitter&utm_medium=social_jamaforum&utm_term=3415909583&utm_campaign=article_alert&linkId=90728847)
+
+* [2020-06-11] [Estimating Force of Infection from Serologic Surveys with Imperfect Tests](https://www.medrxiv.org/content/10.1101/2020.06.09.20125724v1)
+
+* [2020-06-11] [Seroprevalence of anti-SARS-CoV-2 IgG antibodies in Geneva, Switzerland (SEROCoV-POP): a population-based study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31304-0/fulltext#.XuMRtcFiij0.twitter)
+
+* [2020-06-11] [Have deaths from COVID-19 in Europe plateaued due to herd immunity?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31357-X/fulltext)
+
+* [2020-06-11] [Estimation of effects of contact tracing and mask adoption on COVID-19 transmission in San Francisco: a modeling study](https://www.medrxiv.org/content/10.1101/2020.06.09.20125831v1)
+
+* [2020-06-09] [A framework for identifying and mitigating the equity harms of COVID-19 policy interventions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7280094/)
+
+* [2020-06-09] [Suppressing COVID-19 transmission in Hong Kong: an observational study of the first four months](https://www.researchsquare.com/article/rs-34047/v1)
+
+* [2020-06-07] [The impact of COVID-19 control measures on social contacts and transmission in Kenyan informal settlements](https://www.medrxiv.org/content/10.1101/2020.06.06.20122689v1)
+
+* [2020-06-05] [Which interventions work best in a pandemic?](https://science.sciencemag.org/content/368/6495/1063)
+
+* [2020-06-04] [Estimating the extent of asymptomatic COVID-19 and its potential for community transmission: systematic review and meta-analysis](https://www.medrxiv.org/content/10.1101/2020.05.10.20097543v2)
+
+* [2020-06-04] [When to self-isolate and what to do](https://www.nhs.uk/conditions/coronavirus-covid-19/self-isolation-and-treatment/when-to-self-isolate-and-what-to-do/)
+
+* [2020-06-03] [Prevalence of Asymptomatic SARS-CoV-2 Infection](https://www.acpjournals.org/doi/10.7326/M20-3012)
+
+* [2020-06-03] [Experimental statistics, Weekly NHS Test and Trace bulletin, England: 28 May – 3 June 2020](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/891703/NHS_test_and_trace_bulletin__England__-_28_May_to_3_June_2020.pdf)
 
 * [2020-05-29] [Coronavirus in England: half of those with symptoms not isolating](https://www.theguardian.com/world/2020/may/29/coronavirus-symptoms-not-isolating-sage-track-and-trace?CMP=Share_AndroidApp_Copy_to_clipboard)
 
@@ -102,8 +134,106 @@ Referecens related to contact tracing:
 
 * [2020-05-28] [A Majeed (2020) Can the UK emulate the South Korean approach to covid-19?. BMJ; 369](https://doi.org/10.1136/bmj.m2084)
 
-* [2020-05-08] [Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing](https://science.sciencemag.org/content/368/6491/eabb6936)
+* [2020-05-27] [Stochasticity and heterogeneity in the transmission dynamics of SARS-CoV-2](https://arxiv.org/abs/2005.13689)
+
+* [2020-05-26] [How everyday Americans have turned disease detectives — armed with a phone](https://edition.cnn.com/2020/05/26/us/contact-tracing-unemployment-trnd/index.html?utm_medium=social&utm_source=twCNN&utm_content=2020-05-26T18%3A40%3A04&utm_term=link)
+
+* [2020-05-21] [Clustering and superspreading potential of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections in Hong Kong](https://www.researchsquare.com/article/rs-29548/v1)
+
+* [2020-05-19] [Why do some COVID-19 patients infect many others, whereas most don’t spread the virus at all?](https://www.sciencemag.org/news/2020/05/why-do-some-covid-19-patients-infect-many-others-whereas-most-don-t-spread-virus-all)
+
+* [2020-05-19] [The first 100 days of SARS-CoV-2 control in Vietnam](https://www.medrxiv.org/content/10.1101/2020.05.12.20099242v2)
+
+* [2020-05-16] [Identifying airborne transmission as the dominant route for the spread of COVID-19](https://www.pnas.org/content/early/2020/06/10/2009637117)
+
+* [2020-05-13] [How UCSF is training 10,000 new pandemic detectives to fight the coronavirus](https://www.sfchronicle.com/bayarea/article/UCSF-partners-with-California-to-launch-massive-15265995.php)
+
+* [2020-05-07] [Quantifying the impact of physical distance measures on the transmission of COVID-19 in the UK](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01597-8)
+
+* [2020-05-01] [Contact Tracing Assessment of COVID-19 Transmission Dynamics in Taiwan and Risk at Different Exposure Periods Before and After Symptom Onset](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2765641?utm_campaign=articlePDF%26utm_medium%3darticlePDFlink%26utm_source%3darticlePDF%26utm_content%3djamainternmed.2020.2020)
+
+* [2020-03-31] [Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing](https://science.sciencemag.org/content/368/6491/eabb6936)
+
+* [2020-04-30] [Estimating the generation interval for coronavirus disease (COVID-19) based on symptom onset data, March 2020](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.17.2000257)
+
+* [2020-04-27] [Epidemiology and transmission of COVID-19 in 391 cases and 1286 of their close contacts in Shenzhen, China: a retrospective cohort study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30287-5/fulltext)
+
+* [2020-04-27] [Impact of contact tracing on SARS-CoV-2 transmission](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30357-1/fulltext)
+
+* [2020-04-26] [COVID-19 in schools – the experience in NSW](http://ncirs.org.au/sites/default/files/2020-04/NCIRS%20NSW%20Schools%20COVID_Summary_FINAL%20public_26%20April%202020.pdf)
+
+* [2020-04-25] [Coronavirus: The new rhythms of life will jolt and jar as we try to live with this horrible teenager](https://www.thetimes.co.uk/article/the-new-rhythms-of-life-will-jolt-and-jar-as-we-try-to-live-with-this-horrible-teenager-fn7s69nn3)
+
+* [2020-04-24] [Coronavirus: Under surveillance and confined at home in Taiwan](https://www.bbc.com/news/technology-52017993)
 
 * [2020-04-23] [Effectiveness of isolation, testing, contact tracing and physical distancing on reducing transmission of SARS-CoV-2 in different settings: a mathematical modelling study](https://cmmid.github.io/topics/covid19/tracing-bbc.html)
 
+* [2020-04-23] [Coronavirus Disease Outbreak in Call Center, South Korea]()
+
+* [2020-04-23] [Effectiveness of isolation, testing, contact tracing and physical distancing on reducing transmission of SARS-CoV-2 in different settings: a mathematical modelling study](https://cmmid.github.io/topics/covid19/tracing-bbc.html)
+
+* [2020-04-18] [Fangcang shelter hospitals: a novel concept for responding to public health emergencies](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30744-3/fulltext)
+
+* [2020-04-16] [Flattening the Curve on COVID-19](http://www.undp.org/content/seoul_policy_center/en/home/presscenter/articles/2019/flattening-the-curve-on-covid-19.html)
+
+* [2020-04-01] [Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30074-7/fulltext)
+
+* [2020-03-19] [Japan “COVID-19 Response status analysis and recommendation”](https://drive.google.com/file/d/1uHPg3_GNeMyVkJRiOT44b9RM1hYTvM1M/view)
+
+* [2020-03-13] [First known person-to-person transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in the USA](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30607-3/fulltext?utm_campaign=tlcoronavirus20&utm_source=twitter&utm_medium=social)
+
+* [2020-03-13] [COVID-19 outbreak response: first assessment of mobility changes in Italy following lockdown](https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html). [MedRXiv](https://www.medrxiv.org/content/10.1101/2020.03.22.20039933v2)
+
+* [2020-03-10] [The demand for inpatient and ICU beds for COVID-19 in the US: lessons from Chinese cities](https://www.dropbox.com/s/e7hj97y73ym2g68/Inpatient%20ICU%20beds%20needs%20for%20COVID-19%20medRxiv.pdf?dl=0). [MedRXiv](https://www.medrxiv.org/content/10.1101/2020.03.09.20033241v2). [Publication](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2765575)
+
+* [2020-03-09] [Confusion Over Coronavirus Quarantines Feeds Anxiety](https://www.nytimes.com/2020/03/09/nyregion/coronavirus-ny-quarantines.html?searchResultPosition=1)
+
+* [2020-03-08] [Clinical presentation and virological assessment of hospitalized cases of coronavirus disease 2019 in a travel-associated transmission cluster](https://www.medrxiv.org/content/10.1101/2020.03.05.20030502v1)
+
+* [2020-03-06] [Transmission interval estimates suggest pre-symptomatic spread of COVID-19](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)
+
+* [2020-03-06] [Transmission interval estimates suggest pre-symptomatic spread of COVID-19]()
+
+* [2020-03-05] [Contacts in context: large-scale setting-specific social mixing matrices from the BBC Pandemic project](https://www.medrxiv.org/content/10.1101/2020.02.16.20023754v2)
+
+* [2020-02-27] [Preliminary Case Report on the SARS-CoV-2 Cluster in the UK, France, and Spain](https://www.preprints.org/manuscript/202002.0399/v1). [Final publication](https://smw.ch/article/doi/smw.2020.20212)
+
+* [2015-08-29] [Efficacy and effectiveness of an rVSV-vectored vaccine expressing Ebola surface glycoprotein: interim results from the Guinea ring vaccination cluster-randomised trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)61117-5/fulltext)
+
+* [2015-07-27] [The ring vaccination trial: a novel cluster randomised controlled trial design to evaluate vaccine efficacy and effectiveness during outbreaks, with special reference to Ebola](https://www.bmj.com/content/351/bmj.h3740)
+
+* [2014-09-30] [Rabies – a global killer that dog jabs can eliminate](https://theconversation.com/rabies-a-global-killer-that-dog-jabs-can-eliminate-32289)
+
+* [2004-04-20] [Factors that make an infectious disease outbreak controllable](https://www.pnas.org/content/101/16/6146)
+
+* [2003-07] [Responding to a Community Outbreak of Syphilis by Targeting Sex Partner Meeting Location: An Example of a Risk-Space Intervention](https://pubmed.ncbi.nlm.nih.gov/12838079/)
+
+## Research projects
+
+* [Visualizing COVID-19's Effective Reproduction Number (Rt)](http://metrics.covid19-analysis.org/)
+
+* [Coronavirus (COVID-19) in Australia](https://www.covid19data.com.au/)
+
+* [COVID-19 in Iceland – Statistics](https://www.covid.is/data)
+
+* [TTI-TD4: A Review of International Approaches to Test, Trace, Isolate](https://rs-delve.github.io/addenda/2020/05/27/a-review-of-international-approaches-to-tti.html)
+
+* [https://covid.idmod.org/#/](https://covid.idmod.org/#/)
+
+* [COVID-19 Genomics UK Consortium](https://www.cogconsortium.uk/)
+
+* [Temporal variation in transmission during the COVID-19 outbreak](https://epiforecasts.io/covid/)
+
+* [Mobility, commuting, and contact patterns across the United States during the COVID-19 outbreak](https://covid19.gleamproject.org/mobility)
+
+* [Data for Good](https://www.cuebiq.com/about/data-for-good/)
+
+* [COVID-19 Mobility Monitoring project](https://covid19mm.github.io/)
+
+* [The Facebook Map in Italy](http://www.datainterfaces.org/projects/facebookmap/)
+
+* [British-COVID19-Cluster](https://github.com/emmahodcroft/British-COVID19-Cluster)
+
 * [2018-05-14] [Data for the 2014 Global Ebola outbeak](https://github.com/cmrivers/ebola)
+
+
