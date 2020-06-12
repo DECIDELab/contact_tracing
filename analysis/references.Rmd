@@ -1,0 +1,109 @@
+---
+title: "References"
+site: workflowr::wflow_site
+output:
+  workflowr::wflow_html:
+    toc: true
+editor_options:
+  chunk_output_type: console
+---
+
+Referecens related to contact tracing:
+
+## Course
+
+* [https://www.coursera.org/learn/covid-19-contact-tracing?edocomorp=covid-19-contact-tracing](https://www.coursera.org/learn/covid-19-contact-tracing?edocomorp=covid-19-contact-tracing)
+
+## Twitter
+
+* [2020-06-11] [https://twitter.com/i/web/status/1271081565821505537](https://twitter.com/i/web/status/1271081565821505537)
+
+* [2020-06-11] [https://twitter.com/i/web/status/1271081567188893696](https://twitter.com/i/web/status/1271081567188893696)
+
+* [2020-06-11] [https://twitter.com/i/web/status/1271048845414277120](https://twitter.com/i/web/status/1271048845414277120)
+
+* [2020-06-10] [https://twitter.com/i/web/status/1270549539154309121](https://twitter.com/i/web/status/1270549539154309121)
+
+* [2020-06-07] [https://twitter.com/i/web/status/1269639084974145536](https://twitter.com/i/web/status/1269639084974145536)
+
+* [2020-06-03] [https://twitter.com/i/web/status/1267897641557524481](https://twitter.com/i/web/status/1267897641557524481)
+
+* [2020-06-03] [https://twitter.com/i/web/status/1267884102092455940](https://twitter.com/i/web/status/1267884102092455940)
+
+* [2020-06-03] [https://twitter.com/i/web/status/1267895530434289664](https://twitter.com/i/web/status/1267895530434289664)
+
+* [2020-06-03] [https://twitter.com/i/web/status/1267887741439803392](https://twitter.com/i/web/status/1267887741439803392)
+
+* [2020-06-03] [https://twitter.com/i/web/status/1267891879301054464](https://twitter.com/i/web/status/1267891879301054464)
+
+* [2020-05-31] [https://twitter.com/i/web/status/1266877404544450561](https://twitter.com/i/web/status/1266877404544450561)
+
+* [2020-05-30] [https://twitter.com/i/web/status/1266666958734479360](https://twitter.com/i/web/status/1266666958734479360)
+
+* [2020-05-29] [https://twitter.com/i/web/status/1266323606251896833](https://twitter.com/i/web/status/1266323606251896833)
+
+* [2020-05-29] [https://twitter.com/adamjkucharski/status/1266264700150353921](https://twitter.com/adamjkucharski/status/1266264700150353921)
+
+* [2020-05-28] [https://twitter.com/i/web/status/1265775219639234560](https://twitter.com/i/web/status/1265775219639234560)
+
+* [2020-05-27] [https://twitter.com/i/web/status/1265433337591664645](https://twitter.com/i/web/status/1265433337591664645)
+
+* [2020-05-27] [https://twitter.com/i/web/status/1265352019151409152](https://twitter.com/i/web/status/1265352019151409152)
+
+* [2020-05-25] [https://twitter.com/i/web/status/1264650504388427783](https://twitter.com/i/web/status/1264650504388427783)
+
+* [2020-05-22] [https://twitter.com/i/web/status/1263746281110937601](https://twitter.com/i/web/status/1263746281110937601)
+
+* [2020-05-22] [https://twitter.com/i/web/status/1263848312924524544](https://twitter.com/i/web/status/1263848312924524544)
+
+* [2020-05-17] [https://twitter.com/i/web/status/1261976406650548225](https://twitter.com/i/web/status/1261976406650548225)
+
+* [2020-05-16] [https://twitter.com/i/web/status/1261656944764424194](https://twitter.com/i/web/status/1261656944764424194)
+
+* [2020-05-10] [https://twitter.com/i/web/status/1259441479178760192](https://twitter.com/i/web/status/1259441479178760192)
+
+* [2020-05-12] [https://twitter.com/i/web/status/1259914755386400768](https://twitter.com/i/web/status/1259914755386400768)
+
+* [2020-05-02] [https://twitter.com/i/web/status/1256622578908581889](https://twitter.com/i/web/status/1256622578908581889)
+
+* [2020-05-02] [https://twitter.com/i/web/status/1256594062301331456](https://twitter.com/i/web/status/1256594062301331456)
+
+* [2020-05-01] [https://twitter.com/adamjkucharski/status/1256140519572484102](https://twitter.com/adamjkucharski/status/1256140519572484102)
+
+* [2020-04-28] [https://twitter.com/i/web/status/1255063706616111104](https://twitter.com/i/web/status/1255063706616111104)
+
+* [2020-04-26] [https://twitter.com/i/web/status/1254295612083888128](https://twitter.com/i/web/status/1254295612083888128)
+
+* [2020-04-01] [https://twitter.com/i/web/status/1245388630463414273](https://twitter.com/i/web/status/1245388630463414273)
+
+* [2020-03-31] [https://twitter.com/i/web/status/1244992985730674688](https://twitter.com/i/web/status/1244992985730674688)
+
+* [2020-03-28] [https://twitter.com/i/web/status/1243660488048816129](https://twitter.com/i/web/status/1243660488048816129)
+
+* [2020-03-14] [https://twitter.com/i/web/status/1238516839979921409](https://twitter.com/i/web/status/1238516839979921409)
+
+* [2020-03-13] [https://twitter.com/i/web/status/1238502735923855365](https://twitter.com/i/web/status/1238502735923855365)
+
+* [2020-03-12] [https://twitter.com/i/web/status/1238085621379457024](https://twitter.com/i/web/status/1238085621379457024)
+
+* [2020-03-12] [https://twitter.com/i/web/status/1238088469420871680](https://twitter.com/i/web/status/1238088469420871680)
+
+* [2020-03-10] [https://twitter.com/i/web/status/1237347774951305216](https://twitter.com/i/web/status/1237347774951305216)
+
+* [2020-02-27] [https://twitter.com/i/web/status/1232976897732116482](https://twitter.com/i/web/status/1232976897732116482)
+
+
+
+## Papers/Research projects
+
+* [2020-05-29] [Coronavirus in England: half of those with symptoms not isolating](https://www.theguardian.com/world/2020/may/29/coronavirus-symptoms-not-isolating-sage-track-and-trace?CMP=Share_AndroidApp_Copy_to_clipboard)
+
+* [2020-05-29] [Report 25 - Response to COVID-19 in South Korea and implications for lifting stringent interventions](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-25-south-korea/)
+
+* [2020-05-28] [A Majeed (2020) Can the UK emulate the South Korean approach to covid-19?. BMJ; 369](https://doi.org/10.1136/bmj.m2084)
+
+* [2020-05-08] [Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing](https://science.sciencemag.org/content/368/6491/eabb6936)
+
+* [2020-04-23] [Effectiveness of isolation, testing, contact tracing and physical distancing on reducing transmission of SARS-CoV-2 in different settings: a mathematical modelling study](https://cmmid.github.io/topics/covid19/tracing-bbc.html)
+
+* [2018-05-14] [Data for the 2014 Global Ebola outbeak](https://github.com/cmrivers/ebola)
