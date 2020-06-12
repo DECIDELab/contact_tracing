@@ -11,7 +11,7 @@
 
 
 
-<title>About</title>
+<title>References</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -258,6 +261,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -265,6 +331,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -308,7 +384,7 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">About</h1>
+<h1 class="title toc-ignore">References</h1>
 
 </div>
 
@@ -400,7 +476,7 @@ Note that any generated files, e.g. HTML, png, CSS, etc., are not included in t
 <div id="versions" class="tab-pane fade">
 
 <p>
-These are the previous versions of the repository in which changes were made to the R Markdown (<code>analysis/about.Rmd</code>) and HTML (<code>docs/about.html</code>) files. If you’ve configured a remote Git repository (see <code>?wflow_git_remote</code>), click on the hyperlinks in the table below to view the files as they were in that past version.
+These are the previous versions of the repository in which changes were made to the R Markdown (<code>analysis/references.Rmd</code>) and HTML (<code>docs/references.html</code>) files. If you’ve configured a remote Git repository (see <code>?wflow_git_remote</code>), click on the hyperlinks in the table below to view the files as they were in that past version.
 </p>
 <div class="table-responsive">
 <table class="table table-condensed table-hover">
@@ -426,70 +502,19 @@ Message
 <tbody>
 <tr>
 <td>
-html
-</td>
-<td>
-<a href="https://rawcdn.githack.com/decidelab/contact_tracing/9d5845da4d2b5f6ec3e4216f7289247f17ab23a5/docs/about.html" target="_blank">9d5845d</a>
-</td>
-<td>
-lampk
-</td>
-<td>
-2020-06-11
-</td>
-<td>
-Build site.
-</td>
-</tr>
-<tr>
-<td>
-html
-</td>
-<td>
-<a href="https://rawcdn.githack.com/decidelab/contact_tracing/f4d0c0a09f73fa76c48bf3fda993e9dcccb4f6a2/docs/about.html" target="_blank">f4d0c0a</a>
-</td>
-<td>
-lampk
-</td>
-<td>
-2020-06-11
-</td>
-<td>
-Build site.
-</td>
-</tr>
-<tr>
-<td>
-html
-</td>
-<td>
-<a href="https://rawcdn.githack.com/decidelab/contact_tracing/3bd61db5c565b978f5d2b7081196ab8f2aa87586/docs/about.html" target="_blank">3bd61db</a>
-</td>
-<td>
-lampk
-</td>
-<td>
-2020-06-09
-</td>
-<td>
-Build site.
-</td>
-</tr>
-<tr>
-<td>
 Rmd
 </td>
 <td>
-<a href="https://github.com/decidelab/contact_tracing/blob/cc379282ce9672d979e739cb156b7ca9947cdc5e/analysis/about.Rmd" target="_blank">cc37928</a>
+<a href="https://github.com/decidelab/contact_tracing/blob/dbe9210ef71a80d9c475dd44ba403c51b0e6ada5/analysis/references.Rmd" target="_blank">dbe9210</a>
 </td>
 <td>
 lampk
 </td>
 <td>
-2020-06-09
+2020-06-12
 </td>
 <td>
-Start workflowr project.
+add references to contact tracing
 </td>
 </tr>
 </tbody>
@@ -499,7 +524,67 @@ Start workflowr project.
 </div>
 </div>
 </div>
-<p>Describe your project.</p>
+<p>Referecens related to contact tracing:</p>
+<div id="course" class="section level2">
+<h2>Course</h2>
+<ul>
+<li><a href="https://www.coursera.org/learn/covid-19-contact-tracing?edocomorp=covid-19-contact-tracing">https://www.coursera.org/learn/covid-19-contact-tracing?edocomorp=covid-19-contact-tracing</a></li>
+</ul>
+</div>
+<div id="twitter" class="section level2">
+<h2>Twitter</h2>
+<ul>
+<li><p>[2020-06-11] <a href="https://twitter.com/i/web/status/1271081565821505537">https://twitter.com/i/web/status/1271081565821505537</a></p></li>
+<li><p>[2020-06-11] <a href="https://twitter.com/i/web/status/1271081567188893696">https://twitter.com/i/web/status/1271081567188893696</a></p></li>
+<li><p>[2020-06-11] <a href="https://twitter.com/i/web/status/1271048845414277120">https://twitter.com/i/web/status/1271048845414277120</a></p></li>
+<li><p>[2020-06-10] <a href="https://twitter.com/i/web/status/1270549539154309121">https://twitter.com/i/web/status/1270549539154309121</a></p></li>
+<li><p>[2020-06-07] <a href="https://twitter.com/i/web/status/1269639084974145536">https://twitter.com/i/web/status/1269639084974145536</a></p></li>
+<li><p>[2020-06-03] <a href="https://twitter.com/i/web/status/1267897641557524481">https://twitter.com/i/web/status/1267897641557524481</a></p></li>
+<li><p>[2020-06-03] <a href="https://twitter.com/i/web/status/1267884102092455940">https://twitter.com/i/web/status/1267884102092455940</a></p></li>
+<li><p>[2020-06-03] <a href="https://twitter.com/i/web/status/1267895530434289664">https://twitter.com/i/web/status/1267895530434289664</a></p></li>
+<li><p>[2020-06-03] <a href="https://twitter.com/i/web/status/1267887741439803392">https://twitter.com/i/web/status/1267887741439803392</a></p></li>
+<li><p>[2020-06-03] <a href="https://twitter.com/i/web/status/1267891879301054464">https://twitter.com/i/web/status/1267891879301054464</a></p></li>
+<li><p>[2020-05-31] <a href="https://twitter.com/i/web/status/1266877404544450561">https://twitter.com/i/web/status/1266877404544450561</a></p></li>
+<li><p>[2020-05-30] <a href="https://twitter.com/i/web/status/1266666958734479360">https://twitter.com/i/web/status/1266666958734479360</a></p></li>
+<li><p>[2020-05-29] <a href="https://twitter.com/i/web/status/1266323606251896833">https://twitter.com/i/web/status/1266323606251896833</a></p></li>
+<li><p>[2020-05-29] <a href="https://twitter.com/adamjkucharski/status/1266264700150353921">https://twitter.com/adamjkucharski/status/1266264700150353921</a></p></li>
+<li><p>[2020-05-28] <a href="https://twitter.com/i/web/status/1265775219639234560">https://twitter.com/i/web/status/1265775219639234560</a></p></li>
+<li><p>[2020-05-27] <a href="https://twitter.com/i/web/status/1265433337591664645">https://twitter.com/i/web/status/1265433337591664645</a></p></li>
+<li><p>[2020-05-27] <a href="https://twitter.com/i/web/status/1265352019151409152">https://twitter.com/i/web/status/1265352019151409152</a></p></li>
+<li><p>[2020-05-25] <a href="https://twitter.com/i/web/status/1264650504388427783">https://twitter.com/i/web/status/1264650504388427783</a></p></li>
+<li><p>[2020-05-22] <a href="https://twitter.com/i/web/status/1263746281110937601">https://twitter.com/i/web/status/1263746281110937601</a></p></li>
+<li><p>[2020-05-22] <a href="https://twitter.com/i/web/status/1263848312924524544">https://twitter.com/i/web/status/1263848312924524544</a></p></li>
+<li><p>[2020-05-17] <a href="https://twitter.com/i/web/status/1261976406650548225">https://twitter.com/i/web/status/1261976406650548225</a></p></li>
+<li><p>[2020-05-16] <a href="https://twitter.com/i/web/status/1261656944764424194">https://twitter.com/i/web/status/1261656944764424194</a></p></li>
+<li><p>[2020-05-10] <a href="https://twitter.com/i/web/status/1259441479178760192">https://twitter.com/i/web/status/1259441479178760192</a></p></li>
+<li><p>[2020-05-12] <a href="https://twitter.com/i/web/status/1259914755386400768">https://twitter.com/i/web/status/1259914755386400768</a></p></li>
+<li><p>[2020-05-02] <a href="https://twitter.com/i/web/status/1256622578908581889">https://twitter.com/i/web/status/1256622578908581889</a></p></li>
+<li><p>[2020-05-02] <a href="https://twitter.com/i/web/status/1256594062301331456">https://twitter.com/i/web/status/1256594062301331456</a></p></li>
+<li><p>[2020-05-01] <a href="https://twitter.com/adamjkucharski/status/1256140519572484102">https://twitter.com/adamjkucharski/status/1256140519572484102</a></p></li>
+<li><p>[2020-04-28] <a href="https://twitter.com/i/web/status/1255063706616111104">https://twitter.com/i/web/status/1255063706616111104</a></p></li>
+<li><p>[2020-04-26] <a href="https://twitter.com/i/web/status/1254295612083888128">https://twitter.com/i/web/status/1254295612083888128</a></p></li>
+<li><p>[2020-04-01] <a href="https://twitter.com/i/web/status/1245388630463414273">https://twitter.com/i/web/status/1245388630463414273</a></p></li>
+<li><p>[2020-03-31] <a href="https://twitter.com/i/web/status/1244992985730674688">https://twitter.com/i/web/status/1244992985730674688</a></p></li>
+<li><p>[2020-03-28] <a href="https://twitter.com/i/web/status/1243660488048816129">https://twitter.com/i/web/status/1243660488048816129</a></p></li>
+<li><p>[2020-03-14] <a href="https://twitter.com/i/web/status/1238516839979921409">https://twitter.com/i/web/status/1238516839979921409</a></p></li>
+<li><p>[2020-03-13] <a href="https://twitter.com/i/web/status/1238502735923855365">https://twitter.com/i/web/status/1238502735923855365</a></p></li>
+<li><p>[2020-03-12] <a href="https://twitter.com/i/web/status/1238085621379457024">https://twitter.com/i/web/status/1238085621379457024</a></p></li>
+<li><p>[2020-03-12] <a href="https://twitter.com/i/web/status/1238088469420871680">https://twitter.com/i/web/status/1238088469420871680</a></p></li>
+<li><p>[2020-03-10] <a href="https://twitter.com/i/web/status/1237347774951305216">https://twitter.com/i/web/status/1237347774951305216</a></p></li>
+<li><p>[2020-02-27] <a href="https://twitter.com/i/web/status/1232976897732116482">https://twitter.com/i/web/status/1232976897732116482</a></p></li>
+</ul>
+</div>
+<div id="papersresearch-projects" class="section level2">
+<h2>Papers/Research projects</h2>
+<ul>
+<li><p>[2020-05-29] <a href="https://www.theguardian.com/world/2020/may/29/coronavirus-symptoms-not-isolating-sage-track-and-trace?CMP=Share_AndroidApp_Copy_to_clipboard">Coronavirus in England: half of those with symptoms not isolating</a></p></li>
+<li><p>[2020-05-29] <a href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-25-south-korea/">Report 25 - Response to COVID-19 in South Korea and implications for lifting stringent interventions</a></p></li>
+<li><p>[2020-05-28] <a href="https://doi.org/10.1136/bmj.m2084">A Majeed (2020) Can the UK emulate the South Korean approach to covid-19?. BMJ; 369</a></p></li>
+<li><p>[2020-05-08] <a href="https://science.sciencemag.org/content/368/6491/eabb6936">Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing</a></p></li>
+<li><p>[2020-04-23] <a href="https://cmmid.github.io/topics/covid19/tracing-bbc.html">Effectiveness of isolation, testing, contact tracing and physical distancing on reducing transmission of SARS-CoV-2 in different settings: a mathematical modelling study</a></p></li>
+<li><p>[2018-05-14] <a href="https://github.com/cmrivers/ebola">Data for the 2014 Global Ebola outbeak</a></p></li>
+</ul>
+</div>
 
 
 <!-- Adjust MathJax settings so that all math formulae are shown using
@@ -515,6 +600,8 @@ footer is added to webpages before the MathJax javascript. -->
 </script>
 
 
+</div>
+</div>
 
 </div>
 
@@ -547,6 +634,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
